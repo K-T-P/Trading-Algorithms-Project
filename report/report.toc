@@ -1,0 +1,11 @@
+\contentsline {section}{\numberline {1}جمع‌آوری مجموعه دادگان}{3}{}%
+\contentsline {section}{\numberline {2}تخمین نوسان (\lr {Volatility Prediction})}{4}{}%
+\contentsline {subsection}{\numberline {2.1}پیش‌بینی نوسان با استفاده از مدل‌های آماری}{4}{}%
+\contentsline {subsection}{\numberline {2.2}پروکسی‌های نوسان}{4}{}%
+\contentsline {section}{\numberline {3}روش وزن‌دهی و بهینه‌سازی پورتفولیو (\lr {Portfolio Optimization})}{6}{}%
+\contentsline {subsection}{\numberline {3.1}ادغام سری‌های نوسان}{6}{}%
+\contentsline {subsection}{\numberline {3.2}بهینه‌سازی پورتفولیو برای هر دسته}{7}{}%
+\contentsline {subsubsection}{\numberline {3.2.1}\lr {Statistical Models}}{7}{}%
+\contentsline {subsubsection}{\numberline {3.2.2}\lr {Proxies}}{8}{}%
+\contentsline {section}{\numberline {4}استراتژی و استفاده از پورتفولیو}{9}{}%
+\contentsline {section}{\numberline {5}تحلیل نتایج}{10}{}%
